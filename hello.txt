@@ -17,3 +17,4 @@ git push -u origin master : -u signifies that next time if u just write git push
 git push origin master : then everytime we hv to write everything with git push
 git pull origin master: origin signifies the repository and master signifies the curr branch
 merge conflict comes when changes made in the same line
+//This is a comment
